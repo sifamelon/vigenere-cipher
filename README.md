@@ -1,4 +1,4 @@
-﻿# 🔐 Vigenère Cipher (Letters + Digits)
+﻿# 🔐 Vigenere Cipher (Letters + Digits)
 
 <p>
 This project implements a modern version of the <strong>Vigenère Cipher</strong> using JavaScript (Node.js).
